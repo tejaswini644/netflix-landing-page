@@ -1,0 +1,32 @@
+@media(max-width: 600px){
+    nav{
+        display: none;
+    }
+    .logo {
+        width: 100%;
+    }
+    .content h1{
+    font-size: 34px;
+    font-weight: 900; 
+
+}
+.content p{
+    font-size: 18px;
+    font-weight: 100;
+  
+}
+.content input{
+    width: 200px;
+    height: 30px;
+}
+.content button{
+    width: 100px;
+    height: 30px;
+}
+.trend{
+    width: 50%;
+}
+.reason{
+    width: 100%;
+}
+}
